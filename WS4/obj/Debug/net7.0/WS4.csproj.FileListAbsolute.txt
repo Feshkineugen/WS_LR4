@@ -1,0 +1,14 @@
+C:\Users\12\source\repos\WS4\bin\Debug\net7.0\WS4.exe
+C:\Users\12\source\repos\WS4\bin\Debug\net7.0\WS4.deps.json
+C:\Users\12\source\repos\WS4\bin\Debug\net7.0\WS4.runtimeconfig.json
+C:\Users\12\source\repos\WS4\bin\Debug\net7.0\WS4.dll
+C:\Users\12\source\repos\WS4\bin\Debug\net7.0\WS4.pdb
+C:\Users\12\source\repos\WS4\obj\Debug\net7.0\WS4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12\source\repos\WS4\obj\Debug\net7.0\WS4.AssemblyInfoInputs.cache
+C:\Users\12\source\repos\WS4\obj\Debug\net7.0\WS4.AssemblyInfo.cs
+C:\Users\12\source\repos\WS4\obj\Debug\net7.0\WS4.csproj.CoreCompileInputs.cache
+C:\Users\12\source\repos\WS4\obj\Debug\net7.0\WS4.dll
+C:\Users\12\source\repos\WS4\obj\Debug\net7.0\refint\WS4.dll
+C:\Users\12\source\repos\WS4\obj\Debug\net7.0\WS4.pdb
+C:\Users\12\source\repos\WS4\obj\Debug\net7.0\WS4.genruntimeconfig.cache
+C:\Users\12\source\repos\WS4\obj\Debug\net7.0\ref\WS4.dll
